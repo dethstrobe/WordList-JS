@@ -116697,7 +116697,7 @@ Word_List.loadBank([
 "trudges",
 "trudging",
 "trudgings",
-"TRUE",
+"true",
 "trued",
 "trueing",
 "trueman",
